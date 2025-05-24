@@ -2,7 +2,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "942514900",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": true,
@@ -10,7 +10,7 @@ module.exports = {
   "AUTO_REPLY": false,
   "AUTO_REACT": false,
   "WELCOME": false,
-  "MNAME": "ANJU XPRO",
+  "MNAME": "CHATHU XPRO",
   "ANTI_BAD": [],
   "ANTI_BOT": [],
   "ANTI_LINK": [],
@@ -19,10 +19,10 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": "3",
-  "OWNER_NAME": "MR JANIYA",
-  "NEWS_JID": false,
+  "OWNER_NAME": "MR CHATHU",
+  "NEWS_JID": true,
   "MOVIE_JID": [
-    "94758775628@s.whatsapp.net"
+    "120363419135613234@g.us"
   ],
   "ANIME_JID": false,
   "AUTO_TYPING": false,
@@ -35,7 +35,7 @@ module.exports = {
   "AI": "RASH",
   "BANNED": [],
   "SUDO": [
-    "94717775628"
+    "94742514900"
   ],
   "LANG": "EN",
   "MAX_SIZE": 100,
